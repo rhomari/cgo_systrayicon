@@ -1,8 +1,9 @@
 package main
 
 import (
-	"Systray-Icon/systrayicon/systrayicon"
 	"fmt"
+
+	"github.com/rhomari/systrayicon"
 )
 
 func main() {
